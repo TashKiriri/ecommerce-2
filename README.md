@@ -1,4 +1,4 @@
-# Online Shopping Cart (E-Commerce Website)
+"# Online Shopping Cart (E-Commerce Website)
 - Youtube Video for introduction, demo and setup for this Project: https://www.youtube.com/watch?v=RgQG0_orFpM
 <!-- - YouTube video for step by step local setup of similar project: https://www.youtube.com/watch?v=mLFPodZO8Iw&t=8s -->
 <!-- Live site url: https://ellisonelectronics.herokuapp.com -->
@@ -101,13 +101,10 @@ Step 9:  [To Change the Port, if getting error like 'port already in use'] Open 
 
 Step 10: Default Username And Password For Admin Is "admin@gmail.com" And "admin"
 
-Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest"
+Step 11: The default Username And Password For User Is "guest@gmail.com" And "guest
 
 
 
 
-<bold>Thanks a lot,</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
 
 
